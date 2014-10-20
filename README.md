@@ -22,4 +22,6 @@ HALLELUJAH-VER0.1
 - [ ] xxxさん  
 - [ ] yyyさん  
 - [ ] zzzさん  
-- [ ] ザッキー
+- [ ] ザッキー  
+
+pullrequestのテスト  
