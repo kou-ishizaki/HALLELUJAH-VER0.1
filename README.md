@@ -24,4 +24,4 @@ HALLELUJAH-VER0.1
 - [ ] zzzさん  
 - [ ] ザッキー  
 
-pullrequestのテスト  
+pullrequestのテスト  その2です
