@@ -24,4 +24,14 @@ HALLELUJAH-VER0.1
 - [ ] zzzさん  
 - [ ] ザッキー  
 
-pullrequestのテスト  その2です
+***
+
+>10/21 PullRequestのタスク一覧  
+
+- [x] ローカルにwork用ブランチ作成  
+- [ ] ベースのPullRequestを送付する  
+- [ ] PullRequest追加　その１  
+- [ ] PullRequest追加　その２  
+- [ ] PullRequest追加　その３  
+- [ ] ベースのPullRequestをCloseする
+
