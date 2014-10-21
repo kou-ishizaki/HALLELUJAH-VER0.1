@@ -29,9 +29,9 @@ HALLELUJAH-VER0.1
 >10/21 PullRequestのタスク一覧  
 
 - [x] ローカルにwork用ブランチ作成★★★  
-- [x] ベースのPullRequestを送付する  ★#7 ★#9  
-- [ ] PullRequest追加　その１  
-- [ ] PullRequest追加　その２  
-- [ ] PullRequest追加　その３  
-- [ ] ベースのPullRequestをCloseする
+- [x] ベースのPullRequestを送付する  #6  
+- [x] PullRequest追加　その１ #7  
+- [x] PullRequest追加　その２ #8  
+- [x] PullRequest追加　その３ #9 
+- [x] ベースのPullRequestをCloseする #10
 
