@@ -62,6 +62,19 @@ HALLELUJAH-VER0.1
 - [x] [西さん]は[女優の石原さとみ]が好きです。次の担当はなし！これでPullRequest版完了！！
 
 ***
+>11/25 話した事  
+
+裏：java+spring(増田イズム)
+
+その他トピック  
+
+1. ルビー帝国  
+1. Bootstrap3  
+1. Handlebars  
+1. node.js  
+1. AngularJS  
+
+何を採用すっかなー
 
 >11/18 話した事
 
