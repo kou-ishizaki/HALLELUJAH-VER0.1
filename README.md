@@ -96,5 +96,5 @@ HALLELUJAH-VER0.1
 ***
 >キニナル記事をUPしてみる  
 
-1.  [大企業にイノベーションは起こせない」は間違い](http://business.nikkeibp.co.jp/article/report/20141204/274680/)  
-  
+1. [<a href="http://business.nikkeibp.co.jp/article/report/20141204/274680/" target="_blank">大企業にイノベーションは起こせない」は間違い</a>]  
+ - デザイン思考」の先駆者であるアメリカのデザイン・コンサルティング会社「IDEO」のCEO（最高経営責任者）、ティム・ブラウン氏語る
