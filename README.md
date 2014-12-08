@@ -92,3 +92,9 @@ HALLELUJAH-VER0.1
 
 [継続鍛錬]  
   CIに繋がる鍛錬は怠りたくないな
+
+***
+>キニナル記事をUPしてみる  
+
+- 1.  [大企業にイノベーションは起こせない」は間違い](http://business.nikkeibp.co.jp/article/report/20141204/274680/)  
+  
