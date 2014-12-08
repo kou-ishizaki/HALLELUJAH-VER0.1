@@ -96,5 +96,5 @@ HALLELUJAH-VER0.1
 ***
 >キニナル記事をUPしてみる  
 
-- 1.  [大企業にイノベーションは起こせない」は間違い](http://business.nikkeibp.co.jp/article/report/20141204/274680/)  
+1.  [大企業にイノベーションは起こせない」は間違い](http://business.nikkeibp.co.jp/article/report/20141204/274680/)  
   
