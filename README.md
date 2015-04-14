@@ -1,4 +1,11 @@
-HALLELUJAH-VER0.1
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>HALLELUJAH-VER0.1
 =================
 
 みんなでGitHubに慣れよう!! 怖くないよー♪  
@@ -24,7 +31,7 @@ HALLELUJAH-VER0.1
 1. リモートのリポジトリにマージされる  
 1. 全員が終わるまで繰り返す  
 
->書き換える内容は以下  
+&gt;書き換える内容は以下  
 
 - [x] [ザッキー]はとりあえずPushしました!  
 - [x] [ザッキー]は[カブトムシ]が好きです。次の担当は[オトメさん]お願いします!!  
@@ -60,10 +67,11 @@ HALLELUJAH-VER0.1
 - [x] [めんさん]は[果物のピオーネ]が好きです。次の担当は[しんご]さんお願いします!!  
 - [x] [しんごさん]は[俳優の高橋一生とか]が好きです。次の担当は[西ダイソン]さんお願いします!!  
 - [x] [西さん]は[女優の石原さとみ]が好きです。次の担当はなし！これでPullRequest版完了！！
-- [ ] [オイカワさん]は[真麻]が好きです。
+- [ ] [オイカワさん]は[浅田舞]が好きです。
+- [ ] [アキラさん]は[:japanese_goblin:]が好きです。
 
 ***
->1/6 話した事  
+&gt;1/6 話した事  
 
 1. ドメイン駆動設計でモデリングにチャレンジしたい
 1. あまりハードルを上げないカタチで  
@@ -74,7 +82,7 @@ HALLELUJAH-VER0.1
 
 宿題　【みんなでリモート共有できるホワイトボード探そうぜ!!】  
 
->11/25 話した事  
+&gt;11/25 話した事  
 
 裏：java+spring(増田イズム)
 
@@ -88,7 +96,7 @@ HALLELUJAH-VER0.1
 
 何を採用すっかなー
 
->11/18 話した事
+&gt;11/18 話した事
 
 [共通]  
  1. コード書きたい
@@ -106,7 +114,9 @@ HALLELUJAH-VER0.1
   CIに繋がる鍛錬は怠りたくないな
 
 ***
->キニナル記事をUPしてみる  
+&gt;キニナル記事をUPしてみる  
 
-1. [<a href="http://business.nikkeibp.co.jp/article/report/20141204/274680/" target="_blank">大企業にイノベーションは起こせない」は間違い</a>]  
- - デザイン思考」の先駆者であるアメリカのデザイン・コンサルティング会社「IDEO」のCEO（最高経営責任者）、ティム・ブラウン氏語る
+1. [&lt;a href="http://business.nikkeibp.co.jp/article/report/20141204/274680/" target="_blank"&gt;大企業にイノベーションは起こせない」は間違い&lt;/a&gt;]  
+ - デザイン思考」の先駆者であるアメリカのデザイン・コンサルティング会社「IDEO」のCEO（最高経営責任者）、ティム・ブラウン氏語る</pre>
+  </body>
+</html>
